@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Barnaba</h1>
-<h3 align="center">Enthusiast to code in Python</h3>
 
 
 - 🌱 I’m currently learning **Pandas**
