@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barnaba</h1>
 
 
-- 🌱 I’m currently learning **Pandas**
+- 🌱 I’m currently learning **Data Analytics**
 
 - 📫 How to reach me **barnabapeddada143@gmail.com**
 
