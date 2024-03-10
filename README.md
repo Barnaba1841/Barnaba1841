@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m looking to collaborate on Open-Source Projects on Data Analysis and Machine Learning<br>🌱 I’m currently learning Data Analytics<b> Reach Me barnabapeddada143@gmail.com
+🤝 I’m looking to collaborate on Open-Source Projects on Data Analysis and Machine Learning<br>🌱 I’m currently learning Data Analytics<br> Reach Me barnabapeddada143@gmail.com
 
 
 ## 🌐 Socials:
