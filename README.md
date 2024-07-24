@@ -1,7 +1,8 @@
 # 💫 About Me:
 🤝 I’m looking to collaborate on Open-Source Projects on Data Analysis and Machine Learning<br>🌱 I’m currently learning Data Analytics<br> Reach Me barnabapeddada143@gmail.com
 
-See my Portfolio Website : [Project Portfolio](https://www.datascienceportfol.io/BarnabaPeddada)
+See my Personal Portfolio Website : [Personal Website](https://barnabauojs.wordpress.com/)
+See my Project Portfolio : [Project Portfolio](https://www.datascienceportfol.io/BarnabaPeddada)
 
 
 ## 🌐 Socials:
