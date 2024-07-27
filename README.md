@@ -3,8 +3,6 @@
 
 See my Personal Portfolio Website : [Personal Website](https://barnabauojs.wordpress.com/)
 
-See my Project Portfolio : [Project Portfolio](https://www.datascienceportfol.io/BarnabaPeddada)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barnaba_peddada) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/barnaba-peddada) 
