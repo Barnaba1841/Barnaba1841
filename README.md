@@ -18,7 +18,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Advanced Excel, Power BI, SQL, Machine Learning, NLP**
 
-- ☁️ I've keen interest in Data Science. So,I'm learning **DSA**
+- ☁️ I've keen interest in Data Science.
 
 - 💬 Ask me about **Data Analytics, Data Science**
 
