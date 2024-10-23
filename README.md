@@ -1,11 +1,4 @@
 
-See my Personal Portfolio Website : [Personal Website](https://barnabauojs.wordpress.com/)
-
-
-# 💻 Tech Stack:
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -31,6 +24,8 @@ See my Personal Portfolio Website : [Personal Website](https://barnabauojs.wordp
 
 - 📫 Feel free to reach me out **barnabapeddada143@gmail.com**
 
+- See my Personal Portfolio Website : [Personal Website](https://barnabauojs.wordpress.com/)
+
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [Barnaba](https://discordapp.com/users/barnaba5433) my username!
 <!--Intro end-->
 
@@ -51,6 +46,9 @@ See my Personal Portfolio Website : [Personal Website](https://barnabauojs.wordp
     <img src="https://skillicons.dev/icons?i=git,discord,github,html,mysql,vscode,autocad,azure,c,notion,py,tensorflow,powerbi,pandas,numpy,excel&perline=14" />
   </a>
 </p>
+
+# 💻 Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 <!-- Connect with me -->
